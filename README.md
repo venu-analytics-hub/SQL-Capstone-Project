@@ -1,7 +1,7 @@
 
-## ✈️ SQL Capstone Project – AirlineDB Analysis
+## ✈️ SQL Capstone Project:
 
-Analyzed a simulated airline database with complex relationships across bookings, flights, and passengers.
+AirlineDB Analysis project is a simulated airline database with complex relationships across bookings, flights, and passengers.
 
 ### 🔍 Objective
 Extract key business insights using advanced SQL queries.
